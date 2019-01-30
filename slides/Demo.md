@@ -1,1 +1,1 @@
-Demo https://tender-kalam-b73d89.netlify.com
+Demo https://cicd-docs-slides.netlify.com/
